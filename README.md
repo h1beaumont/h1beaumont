@@ -9,7 +9,7 @@ A 12-sleeper holiday let on a working farm in Shropshire. Direct booking site wi
 Short-let operator, grown from 20 to 170 properties. AI agents that ran the business with three non-technical staff. Guest messaging across four channels (169 of 227 messages a day handled with no person involved), an ElevenLabs voice agent on live calls, pricing and payment reconciliation. [How the agents worked (one page)](agent-system-overview.pdf)
 
 **StaffFlow** · [repo](https://github.com/h1beaumont/staffflow)
-The operations platform behind that business: hiring, cleaner allocation, maintenance, linen, lettings, QuickBooks and AI assistants for staff, guests and tenants. About 125,000 lines of TypeScript.
+The operations platform behind that business: hiring, cleaner allocation, maintenance, linen, lettings, QuickBooks, AI assistants for staff, guests and tenants, and a leaderboard to motivate the cleaning team.
 
 **Termflow** · [termflow.ai](https://termflow.ai)
 AI lettings platform for student accommodation: enquiries, viewings, contracts and payments over WhatsApp, email and web. TypeScript, React, PostgreSQL, Stripe, Twilio.
